@@ -1,9 +1,5 @@
 # 🎫 Help Desk Ticketing System Lab
 
-<p align="center">
-  <img width="650" alt="Help Desk Lab Banner" src="YOUR_IMAGE_LINK_HERE">
-</p>
-
 ---
 
 ## 🖥️ Project Overview
