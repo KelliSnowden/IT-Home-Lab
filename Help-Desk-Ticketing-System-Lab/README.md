@@ -70,7 +70,7 @@ The goal of this lab is to simulate a real IT support environment by creating an
 
 ### Step 4: Access Admin Portal
 
-![Admin Portal](Screenshots/OsTicket-Admin-Portal.png)
+![Admin Portal](Screenshots/osTicket-Admin-Portal.png)
 
 *Logged into the administrative dashboard.*
 
