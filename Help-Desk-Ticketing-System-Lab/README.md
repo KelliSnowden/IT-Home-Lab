@@ -48,16 +48,43 @@ The goal of this lab is to simulate a real IT support environment by creating an
 
 ---
 
-## 📸 Lab Screenshots
+## Lab Walkthrough 📸
 
-### osTicket Dashboard
-(Add screenshot here)
+### Step 1: Install osTicket
 
-### Ticket Creation
-(Add screenshot here)
+![Installation Page](Screenshots/osTicket-Installation-Page.png)
 
-### Ticket Resolution
-(Add screenshot here)
+*Started the osTicket installation process.*
+
+### Step 2: Create Database
+
+![Database Creation](Screenshots/osTicket-Database-Creation.png)
+
+*Created the MySQL database required by osTicket.*
+
+### Step 3: Configure osTicket
+
+![Configuration](Screenshots/os-ticket-config.png)
+
+*Configured the application settings and database connection.*
+
+### Step 4: Access Admin Portal
+
+![Admin Portal](Screenshots/OsTicket-Admin-Portal.png)
+
+*Logged into the administrative dashboard.*
+
+### Step 5: Create a Ticket
+
+![Ticket Creation](Screenshots/Ticket2-Creation.png)
+
+*Created a test support ticket.*
+
+### Step 6: Resolve Ticket
+
+![Ticket Resolution](Screenshots/Ticket2-Resolved.png)
+
+*Resolved the ticket and documented the resolution.*
 
 ---
 
