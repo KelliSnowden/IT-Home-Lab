@@ -44,7 +44,7 @@ DNS (Domain Name System) translates human-readable domain names into IP addresse
 
 ### DNS Traffic Capture
 
-![DNS Traffic](Screenshots/dns-traffic.png)
+![DNS Traffic](screenshots/dns-traffic.png)
 
 **Key Observation:**
 - Captured multiple DNS requests and responses.
@@ -55,7 +55,7 @@ DNS (Domain Name System) translates human-readable domain names into IP addresse
 
 ### DNS Packet Details
 
-![DNS Packet Details](Screenshots/dns-packet-details.png)
+![DNS Packet Details](screenshots/dns-packet-details.png)
 
 **Analysis:**
 - Examined Ethernet and IPv4 packet headers.
@@ -67,7 +67,7 @@ DNS (Domain Name System) translates human-readable domain names into IP addresse
 
 ### DNS Query Analysis
 
-![DNS Query Details](Screenshots/dns-query-details.png)
+![DNS Query Details](screenshots/dns-query-details.png)
 
 **Analysis:**
 - Investigated a DNS query for `open.spotify.com`.
@@ -83,7 +83,7 @@ ICMP is commonly used to test network connectivity and troubleshoot communicatio
 
 ### ICMP Packet Analysis
 
-![ICMP Analysis](Screenshots/icmp-analysis.png)
+![ICMP Analysis](screenshots/icmp-analysis.png)
 
 **Analysis:**
 - Captured ICMP Echo Requests and Echo Replies.
