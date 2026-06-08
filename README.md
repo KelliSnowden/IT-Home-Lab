@@ -1,36 +1,56 @@
 # IT Home Lab
 
+Building hands-on IT and cybersecurity skills through virtual machines, troubleshooting labs, networking practice, and help desk simulations.
+
+---
+
 ## Current Projects
-- Windows 11 Virtual Machine Configuration and Administration
-- osTicket Help Desk Ticketing System Lab
-- Wireshark Network Traffic and Packet Analysis
-- Cisco Packet Tracer Networking and Troubleshooting Labs
-- Network+ Hands-On Study Labs
-- Basic Command Line and Network Diagnostics Practice
 
-## Goals
-- Build a strong cybersecurity foundation
-- Strengthen networking and troubleshooting skills
-- Learn Windows system administration
-- Practice virtualization and VM management
-- Gain hands-on IT support experience
-- Develop skills in network analysis and security monitoring
-- Prepare for CompTIA Network+ and Security+
+### Windows 11 Virtual Machine Lab
+Practicing Windows configuration, command-line tools, network troubleshooting, and system administration.
 
-## Skills Being Practiced
-- Virtualization
-- Networking Fundamentals
-- TCP/IP Troubleshooting
-- Packet Analysis
-- Help Desk Ticketing Systems
-- Windows Administration
-- Command Line Usage
-- Basic Cybersecurity Concepts
+### osTicket Help Desk Lab
+Simulating real help desk tickets, customer responses, troubleshooting steps, and ticket resolution.
 
-## Tools and Technologies
-- Virtual Machine Manager (KVM/QEMU)
-- Windows 11
+### Network Troubleshooting Labs
+Using tools like `ping`, `ipconfig`, `tracert`, and `nslookup` to diagnose common network issues.
+
+### Wireshark Packet Analysis
+Capturing and reviewing network traffic to better understand protocols and security monitoring.
+
+### Cisco Packet Tracer Labs
+Building basic networks and practicing routing, switching, and troubleshooting.
+
+---
+
+## Skills Practiced
+
+- Windows 11 administration
+- Virtual machine management
+- Help desk ticketing
+- Network troubleshooting
+- Packet analysis
+- Command-line tools
+- Cybersecurity fundamentals
+- Documentation
+
+---
+
+## Tools Used
+
+- Windows 11 VM
+- Linux Mint
+- Virtual Machine Manager
+- osTicket
 - Wireshark
 - Cisco Packet Tracer
-- osTicket
 - GitHub
+
+---
+
+## Goals
+
+- Build a strong cybersecurity foundation
+- Gain hands-on IT support experience
+- Improve networking and troubleshooting skills
+- Prepare for CompTIA Network+ and Security+
