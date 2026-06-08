@@ -50,16 +50,16 @@ Displays the path packets take across a network.
 
 ### IP Configuration
 
-Screenshot coming soon.
+![IP Configuration](screenshots/ipconfig.png)
 
 ### Connectivity Testing
 
-Screenshot coming soon.
+![Ping Test](screenshots/ping.png)
 
 ### DNS Resolution
 
-Screenshot coming soon.
+![NSLookup](screenshots/nslookup.png)
 
 ### Route Tracing
 
-Screenshot coming soon.
+![Traceroute](screenshots/tracert.png)
