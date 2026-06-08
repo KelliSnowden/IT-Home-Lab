@@ -32,15 +32,15 @@ The virtual machine serves as a dedicated environment for practicing IT support,
 
 ### Virtual Machine Overview
 
-Screenshot coming soon.
+![VM Overview](screenshots/vm-overview.png)
 
 ### CPU Configuration
 
-Screenshot coming soon.
+![CPU Configuration](screenshots/vm-cpu-config.png)
 
 ### Memory Configuration
 
-Screenshot coming soon.
+![Memory Configuration](screenshots/vm-memory-config.png)
 
 ---
 
