@@ -41,19 +41,19 @@ Building basic networks and practicing routing, switching, and troubleshooting.
 
 Verified internet connectivity using ping.
 
-![Ping Test](Screenshots/ping.png)
+![Ping Test](screenshots/ping.png)
 
 ### DNS Resolution
 
 Used nslookup to verify DNS functionality.
 
-![NSLookup](Screenshots/nslookup.png)
+![NSLookup](screenshots/nslookup.png)
 
 ### Virtual Machine Configuration
 
 Configured a Windows 11 virtual machine using Virtual Machine Manager.
 
-![VM Overview](Screenshots/vm-overview.png)
+![VM Overview](screenshots/vm-overview.png)
 
 ## Skills Practiced
 
