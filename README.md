@@ -37,23 +37,23 @@ Building basic networks and practicing routing, switching, and troubleshooting.
 
 ## Featured Lab Screenshots
 
-### Windows 11 Virtual Machine
-
-Brief description of what was accomplished.
-
-![Windows VM](Screenshots/windows-vm.png)
-
 ### Network Connectivity Testing
 
-Used ping to verify connectivity between devices and internet resources.
+Verified internet connectivity using ping.
 
-![Ping Test](Screenshots/ping-test.png)
+![Ping Test](ping.png)
 
-### osTicket Ticket Creation
+### DNS Resolution
 
-Created and managed support tickets in a simulated help desk environment.
+Used nslookup to verify DNS functionality.
 
-![osTicket](Screenshots/osticket-ticket.png)
+![NSLookup](nslookup.png)
+
+### Virtual Machine Configuration
+
+Configured a Windows 11 virtual machine using Virtual Machine Manager.
+
+![VM Overview](vm-overview.png)
 
 ## Skills Practiced
 
