@@ -1,36 +1,62 @@
-# Network Troubleshooting Lab
+🌐 Network Troubleshooting Lab
+📋 Overview
 
-## Objective
+This lab focuses on basic network troubleshooting techniques using Windows command-line tools. The goal is to identify connectivity issues, verify network configurations, troubleshoot DNS resolution, and analyze packet routes.
 
-Practice basic network troubleshooting using common Windows networking tools.
+🎯 Objectives
+Verify IP configuration
+Test network connectivity
+Troubleshoot DNS resolution
+Analyze network paths
+Practice common IT support troubleshooting steps
+🛠️ Tools Used
+Tool	Purpose
+Windows 11 VM	Lab environment
+Command Prompt	Network diagnostics
+Virtual Machine Manager	Virtualization platform
+🔧 Commands Practiced
+ipconfig
 
-## Tools Used
+Displays network adapter configuration and IP addressing information.
 
-- Windows 11 VM
-- Command Prompt
-- Virtual Machine Manager
+ping
 
-## Commands Practiced
+Tests connectivity to local and remote hosts.
 
-### ipconfig
-Used to view IP addressing information and verify network configuration.
+nslookup
 
-### ping
-Used to test connectivity between devices and internet resources.
+Verifies DNS name resolution.
 
-### nslookup
-Used to verify DNS name resolution.
+tracert
 
-### tracert
-Used to identify the route packets take across a network.
+Displays the path packets take across a network.
 
-## Skills Learned
+📸 Screenshots
+IP Configuration
 
-- IP configuration verification
-- Network connectivity testing
-- DNS troubleshooting
-- Route analysis
+Screenshot coming soon
 
-## Screenshots
+Connectivity Testing
 
-Coming soon.
+Screenshot coming soon
+
+DNS Resolution
+
+Screenshot coming soon
+
+Route Tracing
+
+Screenshot coming soon
+
+💡 Skills Demonstrated
+Network troubleshooting
+IP addressing fundamentals
+DNS diagnostics
+Connectivity testing
+Windows command-line usage
+Documentation
+🚀 Future Improvements
+IPv6 testing
+Static IP configuration
+DHCP troubleshooting
+Packet analysis with Wireshark
