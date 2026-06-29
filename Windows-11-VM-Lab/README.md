@@ -8,6 +8,14 @@ The virtual machine serves as a dedicated environment for practicing IT support,
 
 ---
 
+## 🎥 Video Demonstration
+
+📺 **Watch the complete lab walkthrough on YouTube:**
+
+[![Watch on YouTube](https://img.shields.io/badge/▶%20Watch%20on-YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/37eXMsz_f9w)
+
+---
+
 ## 🎯 Objectives
 
 - Create a Windows 11 virtual machine
