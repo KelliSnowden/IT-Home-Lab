@@ -16,6 +16,14 @@ This lab focuses on basic network troubleshooting techniques using Windows comma
 
 ---
 
+## 🎥 Video Demonstration
+
+📺 **Watch the complete lab walkthrough on YouTube:**
+
+[![Watch on YouTube](https://img.shields.io/badge/▶%20Watch%20on-YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/37eXMsz_f9w)
+
+---
+
 ## 🛠️ Tools Used
 
 | Tool | Purpose |
